@@ -1,0 +1,19 @@
+"*":
+  core:
+    disabledPackages: [
+      "markdown-preview"
+    ]
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 15
+    invisibles: {}
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "ab3ff190-5afc-42bd-743e-f9001dfa81ed"
+  "one-dark-ui": {}
+  welcome:
+    showOnStartup: false
